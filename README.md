@@ -11,3 +11,6 @@ $ npm start
 Данные хранятся в local storage.  
 React / Redux / webpack /es6  
 За шаблон взят [create-react-app](https://github.com/facebookincubator/create-react-app) с дополнительными eslint правилами.
+
+Дизайн примерно скопирован из предоставленных в задании скриншотов.  
+Кнопка пагинации "Показать еще" отсутствовала в описании задания, я её не делал.
