@@ -4,8 +4,8 @@
 ```sh
 $ git clone https://github.com/kkokiev/branch-test.git
 $ cd branch-test
-$ node install
-$ node start
+$ npm install
+$ npm start
 ```
 Минималистичный блог с формой создания, списком записей и переходом на страницу отдельной записи.  
 Данные хранятся в local storage.  
